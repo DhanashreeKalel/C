@@ -1,0 +1,2 @@
+C was created by Dennis Ritchie at Bell Labs in the early 1970s as an augmented version of Ken Thompson's B. Another Bell Labs employee, Brian Kernighan, had written the first C tutorial, and he persuaded Ritchie to coauthor a book on the language.
+C is the combination of both low level (assembly) and high-level programming languages; also, it can be used to write an application and interact with low-level system memory and hardware. It can be written on practically any operating system
